@@ -1,5 +1,5 @@
 def SUM(a,b):
     return a + b
-a,b=int(input("Enter first number: ")), int(input("Enter second number: "))
-c=SUM(a,b)
-x str(c)sx
+m=int(input("Enter first number: "))
+n=int(input("Enter second number: "))
+print("Sum =" ,SUM(m,n))
